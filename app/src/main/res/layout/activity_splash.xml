@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="kamar2026"
+        android:text="Remote Kamar"
         android:textSize="36sp"
         android:textStyle="bold"
         android:textColor="@color/splash_text"
@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:text="192.168.136.162/remote"
+        android:text="2026"
         android:textSize="13sp"
         android:textColor="@color/splash_subtext" />
 
