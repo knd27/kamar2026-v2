@@ -15,7 +15,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TARGET_URL = "https://rmt.multinet.id/remote1";
+    private static final String TARGET_URL = "https://ha.multinet.id/remote1";
 
     private WebView webView;
     private LinearLayout errorLayout;
